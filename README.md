@@ -3,7 +3,9 @@ A multi-purpose application; Calculator and Unit_Converter
 It's an opensource project created using python programming language and kivy. It also provides a Dark theme.
 
 ## Screenshots:
-![calculator](calculator.JPG?raw==true) ![unit_converter](unit_converter.JPG?raw==true)
+<img src="https://github.com/ebel-frank/Converto/blob/main/calculator.JPG" width="400px"> <img src="https://github.com/ebel-frank/Converto/blob/main/unit_converter.JPG" width="400px">
+
+# Feel free to fork it!
 
 ## License:
 -------
