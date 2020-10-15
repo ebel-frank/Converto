@@ -1,5 +1,9 @@
 # Converto
 A multi-purpose application; Calculator and Unit_Converter
+It's an opensource project created using python programming language and kivy. It also provides a Dark theme.
+
+## Screenshots:
+(screenshots/normal_menu.jpeg)
 
 ## License:
 -------
