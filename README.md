@@ -3,7 +3,7 @@ A multi-purpose application; Calculator and Unit_Converter
 It's an opensource project created using python programming language and kivy. It also provides a Dark theme.
 
 ## Screenshots:
-![calculator](calculator.jpg) ![unit_converter](unit_converter.jpg)
+![calculator](calculator.JPG) ![unit_converter](unit_converter.JPG)
 
 ## License:
 -------
